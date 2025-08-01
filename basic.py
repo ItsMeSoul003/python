@@ -1,14 +1,5 @@
 #python work on top to bottom approach
-#if you assign a variable some value and then change it later, the last value will be considered
-
-
-
-print("chetanya")
-age = 19
-college = "jecrc" 
-name = "chetanya"
-is_student = False
-print(name,"is",age,"years old and student:",is_student)
+#if you assign a variable some value and then change it later, the last value will be cons,"is",age,"years old and student:",is_student)
 #here is a simple way to take input from user
 name = input("enter your name:")
 age = input("enter your age:")
